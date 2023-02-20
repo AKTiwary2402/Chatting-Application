@@ -23,3 +23,6 @@ client as the means to connect to the server. Once he establishes the connection
 communicate to the connected server.
 
 We have a server as well as a client.Both can be run in the same machine or different machines.If both are running in the machine , the adress to be given at the client side is local host address.If both are running in different machines , then in the client side we need to specify the ip address of machine in which server application is running.
+
+Video link for overview of project--
+https://youtu.be/iMwB5Tkp_GY
